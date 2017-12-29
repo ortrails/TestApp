@@ -1,0 +1,11 @@
+c:\users\astringer\source\repos\TestApp\TestApp\obj\Debug\netcoreapp2.0\TestApp.csprojResolveAssemblyReference.cache
+c:\users\astringer\source\repos\TestApp\TestApp\obj\Debug\netcoreapp2.0\TestApp.csproj.CoreCompileInputs.cache
+c:\users\astringer\source\repos\TestApp\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfoInputs.cache
+c:\users\astringer\source\repos\TestApp\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfo.cs
+c:\users\astringer\source\repos\TestApp\TestApp\bin\Debug\netcoreapp2.0\TestApp.deps.json
+c:\users\astringer\source\repos\TestApp\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.json
+c:\users\astringer\source\repos\TestApp\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.dev.json
+c:\users\astringer\source\repos\TestApp\TestApp\bin\Debug\netcoreapp2.0\TestApp.dll
+c:\users\astringer\source\repos\TestApp\TestApp\bin\Debug\netcoreapp2.0\TestApp.pdb
+c:\users\astringer\source\repos\TestApp\TestApp\obj\Debug\netcoreapp2.0\TestApp.dll
+c:\users\astringer\source\repos\TestApp\TestApp\obj\Debug\netcoreapp2.0\TestApp.pdb
